@@ -16,8 +16,8 @@ export const birthdayConfig = {
   // Informasi dasar
   // --------------------------------------------------------------------------
   namaPacar: 'Nur Aini',
-  panggilanSayang: 'Cayang Aini',
-  namaku: 'Si Ganteng',
+  panggilanSayang: 'Sayangku Aini',
+  namaku: 'Pacarmu',
   tanggalJadian: '14 Juli 2022',
   umur: 24,
 
@@ -46,7 +46,7 @@ export const birthdayConfig = {
   // --------------------------------------------------------------------------
   hero: {
     pill: '🎂 Happy Birthday',
-    judul: `Selamat Ulang Tahun, Cayang Aini!`,
+    judul: `Selamat Ulang Tahun, Sayangku Aini!`,
     subjudul:
       'Hari ini dunia jadi sedikit lebih manis, karena orang tersayangku bertambah usia.',
     tanggal: `💞 Sejak 14 Juli 2022`,
@@ -71,8 +71,8 @@ export const birthdayConfig = {
     judul: 'Dari Aku Untukmu',
     deskripsi: 'Ada beberapa kata yang ingin kusampaikan di hari spesialmu.',
     petunjukBuka: 'Ketuk untuk membuka surat',
-    dari: 'Ditulis khusus oleh Si Ganteng',
-    sapaan: 'Untuk Cayang Aini tersayang,',
+    dari: 'Ditulis khusus oleh Pacarmu',
+    sapaan: 'Untuk Sayangku Aini tersayang,',
     isi: `Selamat ulang tahun ya, sayang.
 
 Terima kasih sudah hadir dan bikin hari-hariku terasa jauh lebih hangat, seru, dan penuh warna. Aku selalu bersyukur bisa mengenalmu, mendengarkan ceritamu, dan ikut tumbuh bareng kamu sampai hari ini.
@@ -80,7 +80,7 @@ Terima kasih sudah hadir dan bikin hari-hariku terasa jauh lebih hangat, seru, d
 Semoga semua impian yang sedang kamu perjuangkan pelan-pelan tercapai, sehat selalu, dan jangan pernah lupa kalau ada aku yang selalu dukung kamu dari dekat.
 
 Tetap jadi Aini yang manis, ceria, dan bikin aku jatuh cinta lagi setiap hari ya!`,
-    penutup: 'Dengan penuh sayang,\nSi Ganteng 🤍',
+    penutup: 'Dengan penuh sayang,\nPacarmu 🤍',
     tombolTampilkan: 'Tampilkan Semua',
   },
 
@@ -164,7 +164,7 @@ Tetap jadi Aini yang manis, ceria, dan bikin aku jatuh cinta lagi setiap hari ya
       'Ngobrol sama kamu nggak pernah membosankan, ada saja bahasannya.',
       'Kamu selalu bikin momen sederhana terasa jadi kenangan spesial.',
       'Kamu tulus dan hangat sama orang-orang di sekitarmu.',
-      'Singkatnya: karena kamu adalah kamu, Cayang Aini-ku.',
+      'Singkatnya: karena kamu adalah kamu, Sayangku Aini-ku.',
     ],
   },
 
@@ -196,7 +196,7 @@ Tetap jadi Aini yang manis, ceria, dan bikin aku jatuh cinta lagi setiap hari ya
         ikon: '🍽️',
         judul: 'Voucher Makan Malam Bareng',
         deskripsi:
-          'Bebas pilih menu & tempat favoritmu, ditraktir penuh oleh Si Ganteng!',
+          'Bebas pilih menu & tempat favoritmu, ditraktir penuh oleh Pacarmu!',
       },
       {
         ikon: '🎬',
@@ -208,7 +208,7 @@ Tetap jadi Aini yang manis, ceria, dan bikin aku jatuh cinta lagi setiap hari ya
         ikon: '🤍',
         judul: 'Voucher Peluk & Manja Sepuasnya',
         deskripsi:
-          'Berlaku kapan saja tanpa tanggal kedaluwarsa, khusus untuk Cayang Aini.',
+          'Berlaku kapan saja tanpa tanggal kedaluwarsa, khusus untuk Sayang Aini.',
       },
     ],
   },
@@ -218,8 +218,8 @@ Tetap jadi Aini yang manis, ceria, dan bikin aku jatuh cinta lagi setiap hari ya
   // --------------------------------------------------------------------------
   penutup: {
     teks:
-      'Sekali lagi selamat ulang tahun ya, Cayang Aini. Terima kasih sudah menjadi alasan paling manis di balik banyak senyumku hari ini dan seterusnya.',
-    dari: '— Si Ganteng',
+      'Sekali lagi selamat ulang tahun ya, Sayang Aini. Terima kasih sudah menjadi alasan paling manis di balik banyak senyumku hari ini dan seterusnya.',
+    dari: '— Pacarmu',
     tombol: 'Putar Ulang Kejutan',
   },
 };
