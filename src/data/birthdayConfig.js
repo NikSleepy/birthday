@@ -120,7 +120,7 @@ Tetap jadi Aini yang manis, ceria, dan bikin aku jatuh cinta lagi setiap hari ya
         judul: 'Quality Time & Cerita Panjang',
         caption:
           'Nggak perlu tempat mewah, asal bareng kamu semuanya selalu terasa cukup dan menyenangkan.',
-        foto: '/images/image_3.jpeg',
+        foto: '/images/image_5.jpeg',
       },
       {
         tanggal: 'Hari Ini',
